@@ -1,6 +1,6 @@
 # E5R C# Coding Style
 
-Guia de estilo de código C5R para C#
+Guia de estilo de código E5R para C#
 
 > Conheça os [Case Styles!][CASE-STYLES]
 
