@@ -4,7 +4,7 @@ Guia de estilo de código E5R para C#
 
 > Conheça os [Case Styles!][CASE-STYLES]
 
-## Arquivos
+## Arquivos e classes
 
 * Um arquivo por classe
 * O nome da classe e do arquivo devem ser iguais
